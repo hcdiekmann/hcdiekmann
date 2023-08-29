@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="hcdiekmann1998" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://nl.linkedin.com/in/hcdiekmann1998?trk=profile-badge">Hans Christian D.</a></div>
+              
 <!--
 **hcdiekmann/hcdiekmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
