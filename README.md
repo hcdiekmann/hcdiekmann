@@ -18,3 +18,5 @@
 	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
 	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" title="Microsoft Azure"/></code>
 </div>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hcdiekmann&show_icons=true&theme=dark&include_all_commits=true)
