@@ -1,9 +1,6 @@
 ### Hi there 👋
-
-- 🌱 I’m currently learning **AWS**, **Python**, and **React**
-
 - 💼 My [Portfolio](https://hcdiekmann.github.io)
-
+- 🌱 I’m currently learning **AWS**, **Typescript**, and **React**
 - Technologies I have worked with and currently use:
 <div>
 	<img width="35" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/>
