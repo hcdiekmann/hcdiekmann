@@ -30,7 +30,7 @@ I embed with the teams who operate the system — scoping on-site, translating o
 | 🤖 **Robotics & IoT** | ROS 2 · fleet management · IoT sensors & actuators · telemetry · computer vision · simulation |
 | ⚙️ **Backend & distributed** | Python · TypeScript · FastAPI · Next.js · PostgreSQL · RabbitMQ · MQTT · WebSockets |
 | ☁️ **Infra & deployment** | Docker · Kubernetes · AWS · GitLab CI/CD · Ansible · observability · on-prem / edge |
-| 🖥️ **Operator interfaces** | real-time dashboards · maps & geospatial · control UIs · PWAs |
+| 🖥️ **Operator interfaces** | real-time dashboards · maps & geospatial · web push & notifications · PWAs |
 
 ### ▸ Current mission
 
