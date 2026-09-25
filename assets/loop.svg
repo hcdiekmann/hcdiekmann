@@ -17,7 +17,7 @@
   <text x="44" y="146" class="sans" fill="#3fb950" font-size="32" font-weight="700">leaves the laptop.</text>
   <rect x="330" y="122" width="14" height="28" fill="#3fb950" class="blink"/>
   <text x="44" y="190" class="mono" fill="#8b949e" font-size="13">SWE · Forward Deployed Engineer · Zürich</text>
-  <text x="44" y="212" class="mono" fill="#6e7681" font-size="12">robots · fleets · real-time systems · operators</text>
+  <text x="44" y="212" class="mono" fill="#6e7681" font-size="12">robots · IoT sensors &amp; actuators · fleets · operators</text>
 
   <!-- the loop -->
   <path id="track" d="M590,75 H810 V185 H590 Z" fill="none" stroke="#30363d" stroke-width="1.5" stroke-dasharray="4 5"/>
