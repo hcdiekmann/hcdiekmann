@@ -31,15 +31,10 @@ I like being close to the problem — talking to the people using the system, fi
 | ☁️ **Infra & deployment** | Docker · Kubernetes · AWS · GitLab CI/CD · Ansible · observability · on-prem / edge |
 | 🖥️ **Operator interfaces** | real-time dashboards · maps & geospatial · control UIs · PWAs |
 
-### ▸ Field log
+### ▸ Current mission
 
-- 🌱 **Autonomous laser-weeding rovers** — tech lead / architect of the fleet platform: real-time telemetry, fleet state, geospatial UIs, session orchestration, auth, reporting, and the Kubernetes infra behind it.
-  <sub>`Next.js` `FastAPI` `RabbitMQ` `Kubernetes` `InfluxDB` `PostgreSQL` `MapLibre`</sub>
-- 🛞 [**pathfinder**](https://github.com/hcdiekmann/pathfinder) — differential-drive robot simulation
-- 👁️ [**ultralytics_ros2**](https://github.com/hcdiekmann/ultralytics_ros2) — object detection & tracking in ROS 2
-- 🦾 [**delta**](https://github.com/hcdiekmann/delta) — delta robot simulation
+🌱 **Autonomous laser-weeding rovers** — tech lead / architect of the fleet platform: real-time telemetry, fleet state, geospatial UIs, session orchestration, auth, reporting, and the Kubernetes infra behind it.  
+<sub>`Next.js` `FastAPI` `RabbitMQ` `Kubernetes` `InfluxDB` `PostgreSQL` `MapLibre`</sub>
 
 <sub>**Currently exploring →** robot fleet management · edge/on-prem systems · AI + robotics · observability  
 **Off-grid →** 🏃 hybrid athlete · 🚙 usually thinking about where the road ends</sub>
-
-<p align="center"><i>Build software. Put it in the real world. See what breaks.</i></p>
