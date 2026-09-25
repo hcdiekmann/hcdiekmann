@@ -20,7 +20,9 @@ $ ros2 launch hcdiekmann bringup.launch.py
 +  working when the internet disappears."
 ```
 
-I embed with the teams who operate the system — scoping on-site, translating operational needs into architecture, and owning delivery through to production in the field. Success is measured at the customer, not at the merge.
+> I embed with the teams who operate the system — scoping on-site, translating operational needs into architecture, and owning delivery through to production in the field.
+>
+> **Success is measured at the customer, not at the merge.**
 
 ### ▸ Subsystems
 
