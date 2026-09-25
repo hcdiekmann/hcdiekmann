@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/loop.svg" alt="Hans Christian Diekmann — software that leaves the laptop" width="100%"/>
+  <img src="assets/loop.svg" alt="Hans Christian Diekmann — from commit to the field" width="100%"/>
 </p>
 
 ```console
