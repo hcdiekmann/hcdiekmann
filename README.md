@@ -6,7 +6,6 @@
 $ ros2 launch hcdiekmann bringup.launch.py
 [INFO] role ............ Software Engineer · Forward Deployed Engineer
 [INFO] origin .......... 🇳🇦 Namibia → 🇩🇪 Germany → 🇳🇱 Netherlands → 🇨🇭 Zürich
-[INFO] operating range . robots & IoT ─► services ─► platform ─► operator
 [INFO] sweet spot ...... where software meets the physical world
 [WARN] requirements not fully defined — good. proceeding.
 [ OK ] ready for deployment
